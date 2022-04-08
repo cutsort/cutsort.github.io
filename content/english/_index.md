@@ -4,7 +4,7 @@ author = "Hugo Authors"
 
 # Bio
 
-Fred is on the Bioinformatics Research Faculty at [Carnegie Institution, Department of Embryology](https://emb.carnegiescience.edu), and an Adjunct Assistant Research Scientist at Johns Hopkins University, [Department of Biology](https://bio.jhu.edu).  He and his colleagues conduct research on best practices to train and support diverse populations.  They focus on strategies that increase persistence among learners, including undergraduates, graduate students, and faculty.  Through collaborative educational programs, they aim to build inclusive genomic data science communities that advance research using the latest genomic technologies.
+Fred is on the Bioinformatics Research Faculty at [Carnegie Institution, Department of Embryology](https://emb.carnegiescience.edu), and an Adjunct Assistant Research Scientist at Johns Hopkins University, [Department of Biology](https://bio.jhu.edu).  He and his collaborators conduct research to develop best practices to train and support diverse populations.  They focus on strategies that increase persistence among learners, including undergraduates, graduate students, and faculty.  Through collaborative educational programs, they aim to build inclusive genomic data science communities that advance research using the latest genomic technologies.
 
 - [Google Scholar](https://scholar.google.com/citations?user=4bHDUGQAAAAJ&sortby=pubdate)
 
